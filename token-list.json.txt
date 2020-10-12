@@ -1,0 +1,25 @@
+{
+  "name": "Landlab",
+  "logoURI": "0x5aa1611dae69eb86100aeb32807d0361e5a18ac5/logo.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "Land"
+    ],
+    "timestamp": "2020-10-13T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x5aa1611dae69eb86100aeb32807d0361e5a18ac5",
+      "name": "Landlab",
+      "symbol": "Land",
+      "decimals": 18,
+      "logoURI": "0x5aa1611dae69eb86100aeb32807d0361e5a18ac5/logo.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
