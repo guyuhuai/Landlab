@@ -1,6 +1,6 @@
 {
   "name": "Landlab",
-  "logoURI": "0x5aa1611dae69eb86100aeb32807d0361e5a18ac5/logo.png",
+  "logoURI": "https://i1.100024.xyz/i/2020/10/13/qpuhtj.png",
   "keywords": [
       "defi",
       "DEFI",
@@ -14,7 +14,7 @@
       "name": "Landlab",
       "symbol": "Land",
       "decimals": 18,
-      "logoURI": "0x5aa1611dae69eb86100aeb32807d0361e5a18ac5/logo.png"
+      "logoURI": "https://i1.100024.xyz/i/2020/10/13/qpuhtj.png"
       }
     ],
     "version": {
